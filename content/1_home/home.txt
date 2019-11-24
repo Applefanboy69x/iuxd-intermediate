@@ -1,9 +1,210 @@
-Title: My Awesome IUXD Topic
+Title: Micro Interactions
 
 ----
 
 Text:
 
-Hi IUXD Student, this is the IUXD-Intermediate Template Repository.
+<html lang="en">
 
-As you can see Kirby and Bootstrap have been provided. Good luck with realising the 0.1 one pager!
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Micro-Interactions</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="kirby/config/link/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="kirby/config/link/css/scrolling-nav.css" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Calistoga&display=swap" rel="stylesheet">
+
+  <style>
+h1 {font-size: 1px;}
+h2 {color:white;font-family: 'Calistoga', cursive; font-size: 105px;}
+h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
+.p {color:white; font-size: 20px;}
+.f {font-family: 'Calistoga', cursive;}
+#p
+{background-color:#6936AD;}
+
+</style>
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Micro-Interactions</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">Wat precies?</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#services">Waarom dan?</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Hoe nu?</a>
+          </li>
+                    <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact2">De tools</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header id="p" >
+    <div class="container text-center">
+      <h2>Micro-Interactions</h1>
+      <p class="lead"><p class="p">By Mirjam Meinster and Lars van de Wiel</p></p>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h3>Wat precies?</h3>
+          <p class="lead">Sinds 1995 heeft Dan Saffer alles ontworpen van websites tot elektronische robots. <br> Hij vindt dat design niet alleen over problem solving gaat maar over het creëren van een menselijkere toekomst. 
+
+In zijn boek “Micro-interactions” wordt alles over micro-interactions uitgelegd. Hij geeft als definitie: “Microinteractions are contained product moments that revolve around a single use case—they have one main task.” Hij legt uit dat microinteractions overal om ons heen zijn: een alarm zetten, een wachtwoord uitkiezen, inloggen of iets “liken”. 
+
+Dit is waar micro-interactions volgens hem goed voor zijn: 
+<ul>
+<li> Het uitvoeren van een taak. </li>
+<li> Apparaten met elkaar verbinden. </li>
+<li> Interacteren met een stukje data. </li>
+<li> Controle hebben over een process zoals de volume van je muziek. </li>
+<li> Een instelling aanpassen. </li>
+<li> Het creëren of bekijken van een stukje content zoals een status bericht. </li>
+<li> Iets aan of uit zetten. </li>
+</ul>
+(image: iu-1.gif)
+<br>
+Micro-interactions zijn dus gebeurtenissen met maar één taak en je kunt ze overal vinden op je telefoon, tablet en computer. Als je ergens inlogt, als je het volume van je muziek aanpast of als je iets aan of uit moet zetten. Hun doel is om de gebruiker te verrassen; om een ​​moment te creëren dat boeiend, gastvrij en menselijk is. 
+<br><br>Micro-interactions hebben eigenlijk drie belangrijke functies: 
+<br>
+<ul>
+<li> Ze communiceren status en feedback.</li>
+<li> Ze verbeteren het gevoel van directe manipulatie.</li>
+<li> Ze helpen mensen het directe resultaat van hun acties te zien.</li> 
+</ul>
+         </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h3>Waarom dan?</h3>
+          <p class="lead">Micro-interactions zijn maar hele kleine elementen in het designen van een product. Waarom zou je überhaupt aandacht aan ze moeten besteden? <br> Helaas is dat een vraag die veel designers nog stellen. Maar het aandacht voor detail is wat het verschil kan maken tussen een gewone website en een bijzondere. 
+
+Dit zijn redenen waarom micro-interactions tof zijn:
+<ul>
+<li> Ze helpen bij het navigeren van je website. </li>
+<li> Ze maken het voor gebruikers makkelijker met je website te interacteren. </li>
+<li> Ze zorgen voor onmiddellijke en belangrijke feedback met betrekking tot het volbrengen van een taak/actie. </li>
+<li> Ze geven de gebruiker tips. </li>
+<li> Ze maken de user experience veel meer de moeite waard. </li>
+<li> Ze moedigen delen, liken en reageren op je content aan. </li>
+<li> Ze sturen de aandacht van de gebruiker. </li>
+<li> En als laatste, ze maken je website emotioneler. </li>
+</ul>
+(image: iu2.gif)
+Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om je gebruiker. Daarom zijn ze zo van waarde. De gebruiker snapt wat hij moet doen, en als dat niet lukt kan een app of website feedback geven en de gebruiker helpen. Micro-interactions kunnen positieve gevoelens opwekken over je merk en kunnen je gebruikers’ gedrag beïnvloeden, zonder dat mensen het door hebben.
+</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h3>Hoe nu?</h3>
+          <p class="lead">Het maken van micro-interactions is belangrijk voor ontwerpers, omdat het ze de mogelijkheid bied om te experimenteren met nieuwe design oplossingen en te kijken naar nieuwe manieren om hun gebruikers te verrassen. 
+
+Micro-interactions bestaan uit vier delen: De trigger, rules, feedback en lopes & modes. 
+De trigger begint de micro-interaction. Triggers kunnen user-initiated (de gebruiker begint de actie) of system-initiated (het system begint de actie) zijn. Rules, deze bepalen wat er precies gaat gebeuren. De feedback laat mensen weten er gaande is. Alles dat de gebruiker ziet, hoort of voelt is feedback. Loops & Modes bepalen wat er gebeurt zodra de situaties veranderd. 
+
+Er zijn echter een paar belangrijke dingen om te onthouden: 
+<ul>
+<li> Verplaats jezelf in de gebruiker en gebruik die inzichten om eerst zelf te begrijpen hoe je je app moet gebruiken. </li>
+<li> Animaties moeten een functie hebben. Ze kunnen er leuk uit zien, maar tijdens het ontwerpen van micro-interactions is functionaliteit belangrijker. </li>
+<li> Entertain je gebruikers. Wat de gebruiker voelt wanneer hij de app gebruikt, is de reden achter het feit dat hij deze blijft gebruiken. Als de gebruiker van de ervaring geniet en als prettig ervaart keert hij terug.</li>
+<li> Let op dat je niet vervelend wordt, teveel animaties kan het tegenovergestelde effect hebben op gebruikers. </li>
+<li> Gebruik liever een menselijke taal dan een technische. Een foutmelding op een website kan heel vervelend zijn, maar kan leuker worden gemaakt door middel van een leuke animatie. </li>
+</ul>
+</p>
+(image: iu1.gif)
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact2" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h3>De tools</h3>
+          <p class="lead">Microinteractions zijn van belang tijdens het prototypen. Vooral als je gaat prototypen. Hier zijn een aantal tools die je kunt gebruiken bij het ontwerpen van microinteractions of het prototypen.
+
+Als je bekend bent met coderen:
+Mobile: Xcode, Android studio
+Mobile or Web: Framer
+Web: CSS animation
+
+Voor een interactie tussen een schermachtige push en een module:
+Invision en Marvel
+
+Voor meer gedetaileerde interactions:
+Principle, Adobe CC, origami Studio en Protopie
+
+Voor meer gedetaileerde interactions + animaties:
+After Effects
+
+Ons voorbeeld in Principle: </p>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Z7hQlLygaGk&feature=youtu.be" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7hQlLygaGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Designing the user experience 2019</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="kirby/config/link/vendor/jquery/jquery.min.js"></script>
+  <script src="kirby/config/link/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="kirby/config/link/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom JavaScript for this theme -->
+  <script src="kirby/config/link/js/scrolling-nav.js"></script>
+
+</body>
+
+</html>
