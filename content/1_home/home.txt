@@ -1,4 +1,4 @@
-Title: Micro Interactions
+Title: Micro Interactions met Principle
 
 ----
 
@@ -13,7 +13,7 @@ Text:
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Micro-Interactions</title>
+  <title>Micro-Interactions met Principle</title>
 
   <!-- Bootstrap core CSS -->
   <link href="kirby/config/link/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -22,15 +22,17 @@ Text:
   <link href="kirby/config/link/css/scrolling-nav.css" rel="stylesheet">
 
   <link href="https://fonts.googleapis.com/css?family=Calistoga&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap" rel="stylesheet">
 
   <style>
 h1 {font-size: 1px;}
 h2 {color:white;font-family: 'Calistoga', cursive; font-size: 105px;}
 h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
-.p {color:white; font-size: 20px;}
+.p {font-family: 'Patrick Hand', cursive; color:white; font-size: 30px; margin-top: 50px;}
+.pp {font-family: 'Calistoga', cursive; font-size: 30px; margin-top: 50px;}
 .f {font-family: 'Calistoga', cursive;}
-#p
-{background-color:#6936AD;}
+#p{background-image: url('kirby/src/Image/Achtergrond.png');}
+
 
 </style>
 </head>
@@ -56,7 +58,7 @@ h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
             <a class="nav-link js-scroll-trigger" href="#contact">Hoe nu?</a>
           </li>
                     <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact2">De tools</a>
+            <a class="nav-link js-scroll-trigger" href="#contact2">Principle</a>
           </li>
         </ul>
       </div>
@@ -65,7 +67,7 @@ h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
 
   <header id="p" >
     <div class="container text-center">
-      <h2>Micro-Interactions</h1>
+      <h2>Micro-Interactions met Principle</h2>
       <p class="lead"><p class="p">By Mirjam Meinster and Lars van de Wiel</p></p>
     </div>
   </header>
@@ -160,27 +162,23 @@ Er zijn echter een paar belangrijke dingen om te onthouden:
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h3>De tools</h3>
-          <p class="lead">Microinteractions zijn van belang tijdens het prototypen. Vooral als je gaat prototypen. Hier zijn een aantal tools die je kunt gebruiken bij het ontwerpen van microinteractions of het prototypen.
+          <h3>Micro-interacties maken met Principle</h3>
+          <p class="lead">Microinteractions zijn van belang om de gebruiker meer duidelijkheid over je product of dienst te geven. Vooral als je gaat prototypen kan het maken van een high-end protoytpe in Principle veel toevoegen.
 
-Als je bekend bent met coderen:
-Mobile: Xcode, Android studio
-Mobile or Web: Framer
-Web: CSS animation
+Met Principle kun je heel gemakkelijk de schermen uit Sketch of Figma importeren om een prototypen te maken. 
 
-Voor een interactie tussen een schermachtige push en een module:
-Invision en Marvel
+</p>
+<p class="pp">Onze eerste voorbeeld uitwerking.</p>
 
-Voor meer gedetaileerde interactions:
-Principle, Adobe CC, origami Studio en Protopie
-
-Voor meer gedetaileerde interactions + animaties:
-After Effects
-
-Ons voorbeeld in Principle: </p>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Z7hQlLygaGk&feature=youtu.be" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7hQlLygaGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p class="pp">Onze tweede voorbeeld uitwerking.</p>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=vWUPmMfmcP4&feature=youtu.be" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWUPmMfmcP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
         </div>
       </div>
