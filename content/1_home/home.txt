@@ -22,19 +22,21 @@ Text:
   <link href="kirby/config/link/css/scrolling-nav.css" rel="stylesheet">
 
   <link href="https://fonts.googleapis.com/css?family=Calistoga&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
 
   <style>
 h1 {font-size: 1px;}
 h2 {color:white;font-family: 'Calistoga', cursive; font-size: 105px;}
 h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
 .h2 {color:'Grey':}
-.p {font-family: 'Patrick Hand', cursive; color:white; font-size: 30px; margin-top: 61px;}
+.p {font-family: 'Roboto Slab', serif; color:white; font-size: 30px; margin-top: 61px;}
 .pp {font-family: 'Calistoga', cursive; font-size: 30px; margin-top: 50px;}
 .ppp {margin-top: 50px;}
 .f {font-family: 'Calistoga', cursive;}
 #p{background-image: url('kirby/src/Image/Achtergrond1.png');}
-
+.custom-lars {
+  background-image: url('kirby/src/Image/Achtergrond.png');
+}
 
 </style>
 </head>
@@ -196,15 +198,24 @@ Nadat je je bestanden geïmporteerd hebt, is het tijd om te beginnen. Selecteer 
 
 Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een jaar lang gratis updates. Ook geven ze de mogelijkheid om het programma eerst te proberen voor 14 dagen om te kijken of het wat voor jou is. In Principle kun je ontwerpen maken voor Android, iOS en websites of zelfs simpele GIFs. 
 </p>
+
+  </section>
+<section id="contact2" class="custom-lars">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2>Groetjes,</h2>
+          <p class="lead"><p class="p">Bedankt voor het bekijken van onze intro pagina over micro-interacties, jullie feedback is van harte welkom op het email adress 0909238@hr.nl
+
+</p></p>
         </div>
       </div>
     </div>
   </section>
-
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Designing the user experience 2019 - 2020</p>
+      <p class="m-0 text-center text-white">Designing the user experience 2019 - 2020<</p>
     </div>
     <!-- /.container -->
   </footer>
