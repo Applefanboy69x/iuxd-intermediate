@@ -51,13 +51,13 @@ h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Wat precies?</a>
+            <a class="nav-link js-scroll-trigger" href="#about">Waar komen de ze vandaan?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#services">Waarom dan?</a>
+            <a class="nav-link js-scroll-trigger" href="#services">Waarom gebruik je ze?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Hoe nu?</a>
+            <a class="nav-link js-scroll-trigger" href="#contact">Correct toepassen</a>
           </li>
                     <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact2">Principle</a>
@@ -70,7 +70,7 @@ h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
   <header id="p" >
     <div class="container text-center">
       <h2>Micro-Interactions met Principle</h2>
-      <p class="lead"><p class="p">By Mirjam Meinster and Lars van de Wiel</p></p>
+      <p class="lead"><p class="p">Door Mirjam Meinster en Lars van de Wiel</p></p>
     </div>
   </header>
 
@@ -78,10 +78,10 @@ h3 {font-family: 'Calistoga', cursive; font-size: 60px;}
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h3>Wat precies?</h3>
-          <p class="lead">Sinds 1995 heeft Dan Saffer alles ontworpen van websites tot elektronische robots. <br> Hij vindt dat design niet alleen over problem solving gaat maar over het creëren van een menselijkere toekomst. 
+          <h3>Waar komen de micro-interactions vandaan?</h3>
+          <p class="lead">Dan Saffer is de grondlegger van de hedendaagse kennis rondom micro-interacties. Sinds 1995 heeft Dan Saffer van alles ontworpen van websites tot elektronische robots. Hij vindt dat design niet alleen over 'problem solving' gaat maar over het creëren van een menselijkere toekomst. 
 
-In zijn boek “Micro-interactions” wordt alles over micro-interactions uitgelegd. Hij geeft als definitie: “Microinteractions are contained product moments that revolve around a single use case—they have one main task.” Hij legt uit dat microinteractions overal om ons heen zijn: een alarm zetten, een wachtwoord uitkiezen, inloggen of iets “liken”. 
+In zijn boek genaamd: “Micro-interactions” wordt alles over micro-interactions uitgelegd. Hij geeft als definitie: “Microinteractions are contained product moments that revolve around a single use case, they have one main task.” Hij legt uit dat microinteractions overal om ons heen zijn: een alarm zetten, een wachtwoord uitkiezen, inloggen of iets “liken”. 
 
 Dit is waar micro-interactions volgens hem goed voor zijn: 
 <ul>
@@ -93,6 +93,7 @@ Dit is waar micro-interactions volgens hem goed voor zijn:
 <li> Het creëren of bekijken van een stukje content zoals een status bericht. </li>
 <li> Iets aan of uit zetten. </li>
 </ul>
+<p><br>Een voorbeeld:</p>
 (image: iu-1.gif)
 <br>
 Micro-interactions zijn dus gebeurtenissen met maar één taak en je kunt ze overal vinden op je telefoon, tablet en computer. Als je ergens inlogt, als je het volume van je muziek aanpast of als je iets aan of uit moet zetten. Hun doel is om de gebruiker te verrassen; om een ​​moment te creëren dat boeiend, gastvrij en menselijk is. 
@@ -113,20 +114,20 @@ Micro-interactions zijn dus gebeurtenissen met maar één taak en je kunt ze ove
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h3>Waarom dan?</h3>
-          <p class="lead">Micro-interactions zijn maar hele kleine elementen in het designen van een product. Waarom zou je überhaupt aandacht aan ze moeten besteden? <br> Helaas is dat een vraag die veel designers nog stellen. Maar het aandacht voor detail is wat het verschil kan maken tussen een gewone website en een bijzondere. 
+          <h3>Waarom gebruik je micro-interactions?</h3>
+          <p class="lead">Micro-interactions zijn maar hele kleine elementen in het designen van een product. Waarom zou je überhaupt aandacht aan ze moeten besteden? <br> Helaas is dat een vraag die veel designers nog stellen. Maar het aandacht voor detail is wat het verschil kan maken tussen een matig of goed product.
 
-Dit zijn redenen waarom micro-interactions tof zijn:
+Dit zijn redenen waarom micro-interactions waardevol zijn:
 <ul>
 <li> Ze helpen bij het navigeren van je website. </li>
 <li> Ze maken het voor gebruikers makkelijker met je website te interacteren. </li>
-<li> Ze zorgen voor onmiddellijke en belangrijke feedback met betrekking tot het volbrengen van een taak/actie. </li>
-<li> Ze geven de gebruiker tips. </li>
-<li> Ze maken de user experience veel meer de moeite waard. </li>
+<li> Ze zorgen voor directe feedback met betrekking tot het volbrengen van een taak/actie. </li>
+<li> Ze maken de user experience de moeite waard. </li>
 <li> Ze moedigen delen, liken en reageren op je content aan. </li>
 <li> Ze sturen de aandacht van de gebruiker. </li>
-<li> En als laatste, ze maken je website emotioneler. </li>
+<li> Ze voegen emotie toe aan je product. </li>
 </ul>
+<br>
 (image: iu2.gif)
 Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om je gebruiker. Daarom zijn ze zo van waarde. De gebruiker snapt wat hij moet doen, en als dat niet lukt kan een app of website feedback geven en de gebruiker helpen. Micro-interactions kunnen positieve gevoelens opwekken over je merk en kunnen je gebruikers’ gedrag beïnvloeden, zonder dat mensen het door hebben.
 </p>
@@ -139,7 +140,7 @@ Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om j
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h3>Hoe nu?</h3>
+          <h3>Correct toepassen van micro-interactions</h3>
           <p class="lead">Het maken van micro-interactions is belangrijk voor ontwerpers, omdat het ze de mogelijkheid bied om te experimenteren met nieuwe design oplossingen en te kijken naar nieuwe manieren om hun gebruikers te verrassen. 
 
 Micro-interactions bestaan uit vier delen: De trigger, rules, feedback en lopes & modes. 
@@ -203,7 +204,7 @@ Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een 
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Designing the user experience 2019</p>
+      <p class="m-0 text-center text-white">Designing the user experience 2019 - 2020</p>
     </div>
     <!-- /.container -->
   </footer>
