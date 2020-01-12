@@ -215,7 +215,7 @@ Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een 
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Designing the user experience 2019 - 2020<</p>
+      <p class="m-0 text-center text-white">Designing the user experience 2019 - 2020</p>
     </div>
     <!-- /.container -->
   </footer>
