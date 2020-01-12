@@ -205,7 +205,7 @@ Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een 
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2>Groetjes,</h2>
-          <p class="lead"><p class="p">Bedankt voor het bekijken van onze intro pagina over micro-interacties, jullie feedback is van harte welkom op het email adress 0909238@hr.nl
+          <p class="lead"><p class="p">Bedankt voor het bekijken van onze intro pagina over micro-interacties, jullie feedback is van harte welkom op het email adres 0909238@hr.nl
 
 </p></p>
         </div>
