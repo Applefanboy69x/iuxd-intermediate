@@ -74,8 +74,7 @@
       <div class="col-lg-8 mx-auto">
         <h3><?= $page->waar_titel() ?></h3>
         <p class="lead"><?= $page->waar_tekst_intro() ?> </p>
-</p>
-<p class='pppp'><?= $page->waar_tekst() ?></p>
+        <p class='pppp'><?= $page->waar_tekst() ?></p>
       </div>
     </div>
   </div>
@@ -86,20 +85,24 @@
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <h3>Waarom gebruik je micro-interactions?</h3>
-        <p class="lead">Micro-interactions zijn maar hele kleine elementen in het designen van een product. Waarom zou je überhaupt aandacht aan ze moeten besteden? <br> Helaas is dat een vraag die veel designers nog stellen. Maar het aandacht voor detail is wat het verschil kan maken tussen een matig of goed product.
-
-Dit zijn redenen waarom micro-interactions waardevol zijn:
+        <p class="lead">Micro-interactions zijn maar hele kleine elementen in het designen van een product. Waarom zou je überhaupt aandacht aan ze moeten besteden? <br> Helaas is dat een vraag die veel designers nog stellen. Maar het aandacht voor detail is wat het verschil kan maken tussen een matig of goed product.</p>
+<p class="pppp">
+Dit zijn redenen waarom micro-interactions waardevol zijn:</p>
 <ul>
-<li> Ze helpen bij het navigeren van je website. </li>
-<li> Ze maken het voor gebruikers makkelijker met je website te interacteren. </li>
-<li> Ze zorgen voor directe feedback met betrekking tot het volbrengen van een taak/actie. </li>
-<li> Ze maken de user experience de moeite waard. </li>
-<li> Ze moedigen delen, liken en reageren op je content aan. </li>
-<li> Ze sturen de aandacht van de gebruiker. </li>
-<li> Ze voegen emotie toe aan je product. </li>
+<li> <p class="pppp">
+Ze helpen bij het navigeren van je website.</p> </li><li> <p class="pppp">
+Ze maken het voor gebruikers makkelijker met je website te interacteren. </p></li>
+<li> <p class="pppp">Ze zorgen voor directe feedback met betrekking tot het volbrengen van een taak/actie. </p></li>
+<li> <p class="pppp">Ze maken de user experience de moeite waard.</p> </li>
+<li> <p class="pppp">Ze moedigen delen, liken en reageren op je content aan. </p></li>
+<li> <p class="pppp">Ze sturen de aandacht van de gebruiker. </p></li>
+<li> <p class="pppp">Ze voegen emotie toe aan je product. </p></li>
 </ul>
 <br>
 (image: iu2.gif)
+<br>
+<br>
+<p class="pppp">
 Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om je gebruiker. Daarom zijn ze zo van waarde. De gebruiker snapt wat hij moet doen, en als dat niet lukt kan een app of website feedback geven en de gebruiker helpen. Micro-interactions kunnen positieve gevoelens opwekken over je merk en kunnen je gebruikers’ gedrag beïnvloeden, zonder dat mensen het door hebben.
 </p>
       </div>
@@ -112,9 +115,9 @@ Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om j
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <h3>Correct toepassen van micro-interactions</h3>
-        <p class="lead">Het maken van micro-interactions is belangrijk voor ontwerpers, omdat het ze de mogelijkheid bied om te experimenteren met nieuwe design oplossingen en te kijken naar nieuwe manieren om hun gebruikers te verrassen. 
+        <p class="lead">Het maken van micro-interactions is belangrijk voor ontwerpers, omdat het ze de mogelijkheid bied om te experimenteren met nieuwe design oplossingen en te kijken naar nieuwe manieren om hun gebruikers te verrassen. </p>
 
-Micro-interactions bestaan uit vier delen: De trigger, rules, feedback en lopes & modes. 
+<p class="pppp"> Micro-interactions bestaan uit vier delen: De trigger, rules, feedback en lopes & modes. 
 De trigger begint de micro-interaction. Triggers kunnen user-initiated (de gebruiker begint de actie) of system-initiated (het system begint de actie) zijn. Rules, deze bepalen wat er precies gaat gebeuren. De feedback laat mensen weten er gaande is. Alles dat de gebruiker ziet, hoort of voelt is feedback. Loops & Modes bepalen wat er gebeurt zodra de situaties veranderd. 
 
 Er zijn echter een paar belangrijke dingen om te onthouden: 
@@ -126,6 +129,8 @@ Er zijn echter een paar belangrijke dingen om te onthouden:
 <li> Gebruik liever een menselijke taal dan een technische. Een foutmelding op een website kan heel vervelend zijn, maar kan leuker worden gemaakt door middel van een leuke animatie. </li>
 </ul>
 </p>
+<br>
+
 (image: iu1.gif)
       </div>
     </div>
@@ -137,14 +142,10 @@ Er zijn echter een paar belangrijke dingen om te onthouden:
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <h3>Micro-interacties maken met Principle</h3>
-        <p class="lead">Micro-interactions zijn van belang om de gebruiker meer duidelijkheid over je product of dienst te geven. Vooral als je gaat testen kan het maken van een high-end protoytpe in Principle veel toevoegen, het verteld veel over de flow van je product.
-
-Principle is een ideaal programma om snel mooie prototypes te maken. Het verschil met andere programma’s is dat je in Principle iets in 5 minuten kunt maken dat je in een ander programma 45 minuten kan kosten.(kuch invision studio) Hierdoor wordt het ook veel leuker om te gaan experimenteren. Als je een Sketch of Figma gebruiker bent, is het helemaal handig. Ten eerste lijken de lay-outs van de programma’s erg op elkaar en ten tweede werken de programma’s erg goed samen. Als je een bestand open hebt staan in Sketch kun je het heel makkelijk importen in Principle en herkent hij je layers en vormen waarbij hij de gelijknamige elementen tussen artboards koppelen.
-Met Principle kun je heel gemakkelijk de schermen uit Sketch of Figma importeren om een prototypen te maken. 
-
-Als je je artboard hebt aangemaakt, kun je beginnen met het importen van je bestand. Dit kun je doen door ze direct vanuit je Finder in Principle te slepen of ze uit Sketch te importeren. Selecteer de lagen die je wilt importeren en gebruik cmd+C en cmd+V. Houd er wel rekening mee dat als je meerdere lagen tegelijk kopieert en plakt in Principle dat hij er één laag van maakt. Zorg er dus voor dat je de lagen los kopieert en plakt als je dat niet wilt. Als je je bestand de helft zo klein wilt importeren, zet dan @2x in de bestandsnaam. 
-
-
+        <p class="lead">Micro-interactions zijn van belang om de gebruiker meer duidelijkheid over je product of dienst te geven. Vooral als je gaat testen kan het maken van een high-end protoytpe in Principle veel toevoegen, het verteld veel over de flow van je product.</p>
+<p class="pppp">
+Principle is een ideaal programma om snel mooie prototypes te maken. Het verschil met andere programma’s is dat je in Principle iets in 5 minuten kunt maken dat je in een ander programma 45 minuten kan kosten.(kuch invision studio) Hierdoor wordt het ook veel leuker om te gaan experimenteren. Als je een Sketch of Figma gebruiker bent, is het helemaal handig. <br>Ten eerste lijken de lay-outs van de programma’s erg op elkaar en ten tweede werken de programma’s erg goed samen. Als je een bestand open hebt staan in Sketch kun je het heel makkelijk importen in Principle en herkent hij je layers en vormen waarbij hij de gelijknamige elementen tussen artboards koppelen.
+<br><br>Met Principle kun je heel gemakkelijk de schermen uit Sketch of Figma importeren om een prototypen te maken. Als je je artboard hebt aangemaakt, kun je beginnen met het importen van je bestand. Dit kun je doen door ze direct vanuit je Finder in Principle te slepen of ze uit Sketch te importeren. Selecteer de lagen die je wilt importeren en gebruik cmd+C en cmd+V. Houd er wel rekening mee dat als je meerdere lagen tegelijk kopieert en plakt in Principle dat hij er één laag van maakt. Zorg er dus voor dat je de lagen los kopieert en plakt als je dat niet wilt. Als je je bestand de helft zo klein wilt importeren, zet dan @2x in de bestandsnaam. 
 </p>
 <p class="pp">Onze eerste voorbeeld uitwerking.</p>
 
@@ -153,19 +154,16 @@ Als je je artboard hebt aangemaakt, kun je beginnen met het importen van je best
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7hQlLygaGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p class="ppp">
-Nadat je je bestanden geïmporteerd hebt, is het tijd om te beginnen. Selecteer een element om er vervolgens een actie aan te koppelen. Momenteel heeft Principle de volgende acties: Tap, Long Press, Scroll Begin, Scroll Release, Scroll End, Drag Begin, Drag End, Touch Down, Touch Up, Hover Inside, Hover Outside en Auto. Dupliceer je huidige artboard en koppel een actie ertussen. 
-
-</p>
-
+<p class="pppp">
+<br>Nadat je je bestanden geïmporteerd hebt, is het tijd om te beginnen. Selecteer een element om er vervolgens een actie aan te koppelen. Momenteel heeft Principle de volgende acties: Tap, Long Press, Scroll Begin, Scroll Release, Scroll End, Drag Begin, Drag End, Touch Down, Touch Up, Hover Inside, Hover Outside en Auto. Dupliceer je huidige artboard en koppel een actie ertussen. </p>
 <p class="pp">Onze tweede voorbeeld uitwerking.</p>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=vWUPmMfmcP4&feature=youtu.be" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWUPmMfmcP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<p class="ppp">Principle is een goede tool voor het maken van interactieve UI prototypes voor je telefoon. Je kunt er heel veel toffe dingen mee maken: mooie interactions, korte animaties, en zelfs apps met meerdere schermen. Principle is makkelijk in gebruik, werkt snel en makkelijk te delen met je klanten en collega’s.
-
-Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een jaar lang gratis updates. Ook geven ze de mogelijkheid om het programma eerst te proberen voor 14 dagen om te kijken of het wat voor jou is. In Principle kun je ontwerpen maken voor Android, iOS en websites of zelfs simpele GIFs. 
+<p class="pppp"><br>Principle is een goede tool voor het maken van interactieve UI prototypes voor je telefoon. Je kunt er heel veel toffe dingen mee maken: mooie interactions, korte animaties, en zelfs apps met meerdere schermen. Principle is makkelijk in gebruik, werkt snel en makkelijk te delen met je klanten en collega’s.
+<br>
+<br>Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een jaar lang gratis updates. Ook geven ze de mogelijkheid om het programma eerst te proberen voor 14 dagen om te kijken of het wat voor jou is. In Principle kun je ontwerpen maken voor Android, iOS en websites of zelfs simpele GIFs. 
 </p>
 
 </section>
@@ -173,7 +171,7 @@ Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een 
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <h2>Groetjes,</h2>
+        <h8>Groetjes,</h8>
         <p class="lead"><p class="p">Bedankt voor het bekijken van onze intro pagina over micro-interacties, jullie feedback is van harte welkom op het E-mailadres: 0909238@hr.nl
 
 </p></p>
@@ -189,7 +187,7 @@ Principle is alleen beschikbaar voor Mac. Het programma kost $129 inclusief een 
       <!-- /.container -->
     </footer>
     <!-- Plugin JavaScript -->
-    <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
