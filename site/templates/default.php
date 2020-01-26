@@ -10,15 +10,13 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     
     <!-- Bootstrap core CSS -->
-    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../../assets/css/scrolling-nav.css" rel="stylesheet">
-
-
+    <link href="assets/css/scrolling-nav.css" rel="stylesheet">
 
         <!-- Custom JavaScript for this theme -->
-        <script src="../../assets/js/scrolling-nav.js"></script>
+        <script src="assets/js/scrolling-nav.js"></script>
 
     
     <meta charset="utf-8">
@@ -200,7 +198,7 @@ Principle is een ideaal programma om snel mooie prototypes te maken. Het verschi
       <!-- /.container -->
     </footer>
     <!-- Plugin JavaScript -->
-    <script src="../../assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 
 
     <!-- Optional JavaScript -->
