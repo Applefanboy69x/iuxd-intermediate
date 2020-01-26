@@ -30,7 +30,7 @@ Dit is waar micro-interactions volgens hem goed voor zijn:
 - Iets aan of uit zetten. <br>
 
 <br>Een voorbeeld:<br>
-(image: iu-1.gif)
+<img src="content/1_home/iu-1.gif">
 <br><br>
 Micro-interactions zijn dus gebeurtenissen met maar één taak en je kunt ze overal vinden op je telefoon, tablet en computer. Als je ergens inlogt, als je het volume van je muziek aanpast of als je iets aan of uit moet zetten. Hun doel is om de gebruiker te verrassen; om een ​​moment te creëren dat boeiend, gastvrij en menselijk is. 
 <br><br>Micro-interactions hebben eigenlijk drie belangrijke functies: 
@@ -39,6 +39,7 @@ Micro-interactions zijn dus gebeurtenissen met maar één taak en je kunt ze ove
 - Ze communiceren status en feedback. <br>
 - Ze verbeteren het gevoel van directe manipulatie. <br>
 - Ze helpen mensen het directe resultaat van hun acties te zien. <br>
-
+<br>
+Bronvermelding: 
 ----      
     
