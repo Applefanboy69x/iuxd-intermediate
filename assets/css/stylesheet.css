@@ -1,0 +1,41 @@
+h1 {
+    font-size: 1px;
+    }
+h2 {
+    color:white;
+    font-family: 'Calistoga', cursive; 
+    font-size: 105px;
+    }
+h3 {
+    font-family: 'Calistoga', cursive; 
+    font-size: 60px;
+    }
+.h2 {
+    color:'Grey':
+    
+    }
+.p {
+    font-family: 'Roboto Slab', serif; 
+    color:white; 
+    font-size: 30px; 
+    margin-top: 61px;
+    }
+.pp {
+    font-family: 'Calistoga', cursive; 
+    font-size: 30px; 
+    margin-top: 50px;
+}
+.ppp {
+    margin-top: 50px;
+    }
+.pppp {
+    font-size: 18px;
+    }
+.f {
+    font-family: 'Calistoga', cursive;
+}
+#p{
+    background-image: url('../../kirby/src/Image/Achtergrond1.png');}
+.custom-lars {
+  background-image: url('../../kirby/src/Image/Achtergrond.png');
+}

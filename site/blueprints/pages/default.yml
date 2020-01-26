@@ -1,8 +1,23 @@
 title: Default Page
 preset: page
 fields:
-  text:
-    label: Text
+  titel:
+    label: hoofdtitel
+    type: text
+    size: small
+  sub_titel:
+    label: hoofdtitel
+    type: text
+    size: small
+  waar_titel:
+    label: hoofdtitel
+    type: text
+    size: small
+  waar_tekst_intro:
+    label: hoofdtitel
     type: textarea
     size: large
-
+  waar_tekst:
+    label: hoofdtitel
+    type: textarea
+    size: large
