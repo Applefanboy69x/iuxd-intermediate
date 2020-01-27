@@ -6,18 +6,42 @@ fields:
     type: text
     size: small
   sub_titel:
-    label: hoofdtitel
+    label: subtitel
     type: text
     size: small
   waar_titel:
-    label: hoofdtitel
+    label: titel
     type: text
     size: small
   waar_tekst_intro:
-    label: hoofdtitel
+    label: subtitel
     type: textarea
     size: large
   waar_tekst:
-    label: hoofdtitel
+    label: tekst
+    type: textarea
+    size: large
+  waarom_titel:
+    label: tekst
+    type: textarea
+    size: large
+  waarom_sub_titel:
+    label: tekst
+    type: textarea
+    size: large
+  waarom_tekst:
+    label: tekst
+    type: textarea
+    size: large
+  bron_titel:
+    label: tekst
+    type: textarea
+    size: large
+      bron_sub_tekst:
+    label: tekst
+    type: textarea
+    size: large
+      bron_tekst:
+    label: tekst
     type: textarea
     size: large

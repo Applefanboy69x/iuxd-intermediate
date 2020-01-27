@@ -39,7 +39,82 @@ Micro-interactions zijn dus gebeurtenissen met maar één taak en je kunt ze ove
 - Ze communiceren status en feedback. <br>
 - Ze verbeteren het gevoel van directe manipulatie. <br>
 - Ze helpen mensen het directe resultaat van hun acties te zien. <br>
-<br>
-Bronvermelding: 
 ----      
+
+waarom_titel:
+
+Waarom gebruik je micro-interactions?
+
+----
+
+waarom_sub_titel:
+Micro-interactions zijn maar hele kleine elementen in het designen van een product. Waarom zou je überhaupt aandacht aan ze moeten besteden? <br> Helaas is dat een vraag die veel designers nog stellen. Maar het aandacht voor detail is wat het verschil kan maken tussen een matig of goed product.
+
+----
     
+waarom_tekst:
+
+Dit zijn redenen waarom micro-interactions waardevol zijn:</p>
+<ul>
+<li> <p class="pppp">Ze helpen bij het navigeren van je website.</p> </li>
+<li> <p class="pppp">Ze maken het voor gebruikers makkelijker met je website te interacteren. </p></li>
+<li> <p class="pppp">Ze zorgen voor directe feedback met betrekking tot het volbrengen van een taak/actie. </p></li>
+<li> <p class="pppp">Ze maken de user experience de moeite waard.</p> </li>
+<li> <p class="pppp">Ze moedigen delen, liken en reageren op je content aan. </p></li>
+<li> <p class="pppp">Ze sturen de aandacht van de gebruiker. </p></li>
+<li> <p class="pppp">Ze voegen emotie toe aan je product. </p></li>
+</ul>
+
+----
+
+bron_titel:
+Bronnen
+
+
+----
+
+bron_sub_tekst:
+
+De bronnen die wij gebruikt hebben voor onze workshop en website.
+
+----
+
+bron_tekst:
+
+Zomerdijk , R. (2019, 30 september). Microinteractions worden gewaardeerd door de gebruiker. Geraadpleegd op 1 januari 2020, van: <a href="https://sigmasolutions.nl/blog/20190930_microinteractions-worden-gewaardeerd-door-de-gebruiker/">www.sigmasolutions.nl</a>
+
+<br><br>
+
+Joyce, A. (2018, 21 oktober). Microinteractions in User Experience. Geraadpleegd op 16 november 2018, van: <a href="https://www.nngroup.com/articles/microinteractions/">www.nmgroup.com</a>
+
+<br><br>
+
+Saffer, D. (2014, 1 januari). MICROINTERACTIONS. Geraadpleegd op 16 november 2019, van: <a href = "http://microinteractions.com/about-the-author/ ">microinterctions</a>
+<br><br>
+
+Batchu, V. (2018, 12 april). Micro-interactions: why, when and how to use them to improve the user experience. Geraadpleegd op 16 november 2019, van: <a href= "https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0">uxdesign.cc </a>
+<br><br>
+Babich, N. (2019, 27 maart). Microinteractions: The Importance of Micro-Moment Design. Geraadpleegd op 1 januari 2020, van: <a href = https://www.shopify.com/partners/blog/microinteractions > shopify</a> 
+<br><br>
+
+Vedenyapina, J. (2019, 12 januari). 10 microinteractions that will inspire your next project. Geraadpleegd op 16 november 2019, van: <a href =  https://medium.com/inside-design/10-microinteractions-that-will-inspire-your-next-project-8a6913ee42d>medium.computer</a>
+<br><br>
+
+Willenskomer, I. (2016, 27 april). 5 Mistakes to Avoid When Designing Micro-interactions. Geraadpleegd van: <a href =  https://medium.com/ux-in-motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86 > medium.com</a>
+<br><br>
+
+Tagiev, R. (z.d.). Learn How to Use Principle Like a Pro Following 12 Hints. Geraadpleegd van: <a href = https://yalantis.com/blog/how-to-use-principle-like-pro/ > yalantis </a>
+<br><br>
+
+Chhikara, A. (2016, 18 februari). The Designer’s Guide to Prototyping in Principle. Geraadpleegd op 3 januari 2020, van: <a href =  https://medium.com/swlh/designers-guide-to-prototyping-in-principle-4664e9930bef > medium.com</a> 
+<br><br>
+
+Goncharov, D. (z.d.). How to Create Prototypes for Interactive User Interfaces with Principle. Geraadpleegd op 3 januari 2020, van: <a href =  https://yalantis.com/blog/why-principle-is-the-simplest-tool-for-prototyping-interactive-user-interfaces/ > yalantis.com</a>
+<br><br>
+
+Youtube video door Lars van de Wiel<br><br>
+
+En natuurlijk: <a href = https://principleformac.com/resources.html>Principe for Mac </a>
+
+
+----
