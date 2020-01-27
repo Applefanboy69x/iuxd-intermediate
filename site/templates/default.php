@@ -92,9 +92,7 @@
 <img src="content/1_home/iu2.gif">
 <br>
 <br>
-<p class="pppp">
-Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om je gebruiker. Daarom zijn ze zo van waarde. De gebruiker snapt wat hij moet doen, en als dat niet lukt kan een app of website feedback geven en de gebruiker helpen. Micro-interactions kunnen positieve gevoelens opwekken over je merk en kunnen je gebruikers’ gedrag beïnvloeden, zonder dat mensen het door hebben.
-</p>
+<p class="pppp">Goed ontworpen micro-interactions zijn een teken dat je als ontwerper geeft om je gebruiker. Daarom zijn ze zo van waarde. De gebruiker snapt wat hij moet doen, en als dat niet lukt kan een app of website feedback geven en de gebruiker helpen. Micro-interactions kunnen positieve gevoelens opwekken over je merk en kunnen je gebruikers’ gedrag beïnvloeden, zonder dat mensen het door hebben.</p>
       </div>
     </div>
   </div>
