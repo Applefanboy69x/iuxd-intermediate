@@ -33,6 +33,42 @@ fields:
     label: tekst
     type: textarea
     size: large
+  waarom_tekst2:
+    label: tekst
+    type: textarea
+    size: large
+  correct_titel:
+    label: tekst
+    type: textarea
+    size: large
+  correct_sub_titel:
+    label: tekst
+    type: textarea
+    size: large
+  correct_tekst:
+    label: tekst
+    type: textarea
+    size: large
+  maken_titel:
+    label: tekst
+    type: textarea
+    size: large
+  maken_sub_titel:
+    label: tekst
+    type: textarea
+    size: large
+  maken_tekst:
+    label: tekst
+    type: textarea
+    size: large
+  maken_tekst2:
+    label: tekst
+    type: textarea
+    size: large
+  maken_tekst3:
+    label: tekst
+    type: textarea
+    size: large
   bron_titel:
     label: tekst
     type: textarea
@@ -45,3 +81,9 @@ fields:
     label: tekst
     type: textarea
     size: large
+  bedankt:
+    label: tekst
+    type: textarea
+    size: large
+
+    
