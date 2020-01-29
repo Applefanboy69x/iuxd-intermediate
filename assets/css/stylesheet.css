@@ -40,7 +40,8 @@ h8 {
     font-family: 'Calistoga', cursive;
 }
 #p{
-    background-image: url('../../kirby/src/Image/Achtergrond1.png');}
+    background-image: url('../../content/1_home/Achtergrond1.png');
+}
 .custom-lars {
-  background-image: url('../../kirby/src/Image/Achtergrond.png');
+  background-image: url('../../content/1_home/Achtergrond.png');
 }
